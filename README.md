@@ -17,11 +17,13 @@ npm install --save react-multiselect-picker
 
 ## Usage
 
+Codesandbox: [https://codesandbox.io/s/react-multiselect-picker-component-zdbu7](https://codesandbox.io/s/react-multiselect-picker-component-zdbu7)
+
 ```jsx
 import React from 'react'
 
 import MultiSelectPicker from 'react-multiselect-picker'
-import 'react-multiselect-picker/src/index.css'
+import 'react-multiselect-picker/dist/styles.css'
 
 const items=[
     'Budget',
