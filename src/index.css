@@ -98,7 +98,7 @@
 }
 
 .item-selected::after {
-  content: "✓";
+  content: "\2713";
   font-size: 13px;
 }
 
@@ -150,16 +150,15 @@
 }
 
 .chip::before{
-  content: "✓";
+  content: "\2713";
   margin-right: 5px;
   font-size: 13px;
 }
 
 .chip:hover:before{
-  content: "✖";
+  content: "\2716";
   margin-right: 5px;
   font-size: 12px;
 }
 
 /* ------------------------------------- */
-

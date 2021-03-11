@@ -2,7 +2,9 @@
 
 > React Multi-Select Picker Component
 
-[![NPM](https://img.shields.io/npm/v/react-multiselect-picker.svg)](https://www.npmjs.com/package/react-multiselect-picker) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-multiselect-picker.svg)](https://www.npmjs.com/package/react-multiselect-picker)
+
+![React Multi-Select Picker Component Image](image.png)
 
 ## Demo
 Live Preview: [https://multiselect-picker.netlify.app](https://multiselect-picker.netlify.app)
